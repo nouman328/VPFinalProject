@@ -1,0 +1,12 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.Form1.resources
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.Form2.resources
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.splashscreen.resources
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.audio.resources
