@@ -10,3 +10,16 @@ c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debu
 c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.pdb
 c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
 c:\users\muhammad\documents\visual studio 2015\Projects\Project\Project\obj\Debug\Project.audio.resources
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\obj\Debug\Project.exe
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\obj\Debug\Project.pdb
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\bin\Debug\Project.exe
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\obj\Debug\Project.audio.resources
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\obj\Debug\Project.Form2.resources
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\obj\Debug\Project.splashscreen.resources
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\obj\Debug\Project.video.resources
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\Project\Project\bin\Debug\Project.pdb

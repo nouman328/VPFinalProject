@@ -22,5 +22,11 @@ namespace Project
             audio audi = new audio();
             audi.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            video vid = new video();
+            vid.Show();
+        }
     }
 }
