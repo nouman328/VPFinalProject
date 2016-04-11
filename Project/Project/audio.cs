@@ -23,7 +23,7 @@ namespace Project
         }
 
         private void button2_Click(object sender, EventArgs e)
-        {
+        { 
             video vid = new video();
             vid.Show();
             this.Close();
