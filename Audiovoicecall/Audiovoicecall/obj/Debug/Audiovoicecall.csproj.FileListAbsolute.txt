@@ -1,0 +1,1 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\Audiovoicecall\Audiovoicecall\bin\Debug\Audiovoicecall.exe.config
