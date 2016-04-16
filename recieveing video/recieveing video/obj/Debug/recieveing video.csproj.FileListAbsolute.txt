@@ -1,0 +1,13 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\bin\Debug\recieveing video.exe.config
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\bin\Debug\recieveing video.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\bin\Debug\recieveing video.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\bin\Debug\Interop.VideoChatReceiverLib.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\obj\Debug\Interop.VideoChatReceiverLib.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\obj\Debug\recieveing video.csproj.ResolveComReference.cache
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\obj\Debug\recieveing_video.Form1.resources
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\obj\Debug\recieveing_video.Properties.Resources.resources
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\obj\Debug\recieveing video.csproj.GenerateResource.Cache
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\obj\Debug\recieveing video.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\recieveing video\recieveing video\obj\Debug\recieveing video.pdb

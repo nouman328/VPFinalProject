@@ -1,0 +1,14 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\bin\Debug\videocallingapp.exe.config
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\bin\Debug\videocallingapp.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\bin\Debug\videocallingapp.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\bin\Debug\Interop.VideoChatSenderLib.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\bin\Debug\AxInterop.VideoChatSenderLib.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\obj\Debug\videocallingapp.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\obj\Debug\Interop.VideoChatSenderLib.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\obj\Debug\AxInterop.VideoChatSenderLib.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\obj\Debug\videocallingapp.csproj.ResolveComReference.cache
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\obj\Debug\videocallingapp.Form1.resources
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\obj\Debug\videocallingapp.Properties.Resources.resources
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\obj\Debug\videocallingapp.csproj.GenerateResource.Cache
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\obj\Debug\videocallingapp.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\videocallingapp\videocallingapp\obj\Debug\videocallingapp.pdb

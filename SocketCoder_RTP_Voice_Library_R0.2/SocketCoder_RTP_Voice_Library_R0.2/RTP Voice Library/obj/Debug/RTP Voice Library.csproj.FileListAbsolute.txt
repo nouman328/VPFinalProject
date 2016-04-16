@@ -1,0 +1,8 @@
+C:\Users\Muhammad\Downloads\SocketCoder_RTP_Voice_Library_R0.2\SocketCoder_RTP_Voice_Library_R0.2\RTP Voice Library\bin\Debug\RTP Voice Library.exe
+C:\Users\Muhammad\Downloads\SocketCoder_RTP_Voice_Library_R0.2\SocketCoder_RTP_Voice_Library_R0.2\RTP Voice Library\bin\Debug\RTP Voice Library.pdb
+C:\Users\Muhammad\Downloads\SocketCoder_RTP_Voice_Library_R0.2\SocketCoder_RTP_Voice_Library_R0.2\RTP Voice Library\obj\Debug\RTP Voice Library.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Downloads\SocketCoder_RTP_Voice_Library_R0.2\SocketCoder_RTP_Voice_Library_R0.2\RTP Voice Library\obj\Debug\SocketCoder_RTP_Voice_Library.Properties.Resources.resources
+C:\Users\Muhammad\Downloads\SocketCoder_RTP_Voice_Library_R0.2\SocketCoder_RTP_Voice_Library_R0.2\RTP Voice Library\obj\Debug\RTP_VOIP_Library_Sample.RTP_VOIP_Library_Sample.resources
+C:\Users\Muhammad\Downloads\SocketCoder_RTP_Voice_Library_R0.2\SocketCoder_RTP_Voice_Library_R0.2\RTP Voice Library\obj\Debug\RTP Voice Library.csproj.GenerateResource.Cache
+C:\Users\Muhammad\Downloads\SocketCoder_RTP_Voice_Library_R0.2\SocketCoder_RTP_Voice_Library_R0.2\RTP Voice Library\obj\Debug\RTP Voice Library.exe
+C:\Users\Muhammad\Downloads\SocketCoder_RTP_Voice_Library_R0.2\SocketCoder_RTP_Voice_Library_R0.2\RTP Voice Library\obj\Debug\RTP Voice Library.pdb

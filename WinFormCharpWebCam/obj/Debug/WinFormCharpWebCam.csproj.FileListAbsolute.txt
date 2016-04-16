@@ -7,3 +7,5 @@ C:\Users\Muhammad\Downloads\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharp
 C:\Users\Muhammad\Downloads\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.csproj.GenerateResource.Cache
 C:\Users\Muhammad\Downloads\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.exe
 C:\Users\Muhammad\Downloads\EasyWebCam\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.pdb
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.exe
+C:\Users\Muhammad\Documents\Visual Studio 2015\Projects\VPFinalProject\WinFormCharpWebCam\obj\Debug\WinFormCharpWebCam.pdb
