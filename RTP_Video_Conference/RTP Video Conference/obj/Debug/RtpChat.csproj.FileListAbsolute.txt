@@ -1,0 +1,12 @@
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\bin\Debug\RtpChat.exe.config
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\bin\Debug\RtpChat.exe
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\bin\Debug\RtpChat.pdb
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\bin\Debug\LSTCommon.dll
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\bin\Debug\MSR.LST.Net.Rtp.dll
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\bin\Debug\NetworkingBasics.dll
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\obj\Debug\RtpChat.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\obj\Debug\RtpChat.frmChat.resources
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\obj\Debug\RtpChat.Properties.Resources.resources
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\obj\Debug\RtpChat.csproj.GenerateResource.Cache
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\obj\Debug\RtpChat.exe
+C:\Users\Muhammad\Downloads\RTP_Video_Conference\RTP Video Conference\obj\Debug\RtpChat.pdb
